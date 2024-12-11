@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1wHewX04hw8Aae3auM7w4XAKM_lfjtVAh
 """
 
-!pip install streamlit
+#!pip install streamlit
 
-!pip install transformers
+#!pip install transformers
 
-!pip install torch torchvision torchaudio
+#!pip install torch torchvision torchaudio
 
 import streamlit as st
 from transformers import AutoModelForCausalLM, AutoTokenizer
