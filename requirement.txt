@@ -1,0 +1,5 @@
+transformers
+torch        # if using PyTorch-based models
+tensorflow   # if using TensorFlow-based models
+torchvision 
+torchaudio
